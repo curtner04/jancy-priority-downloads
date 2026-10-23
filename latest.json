@@ -1,8 +1,8 @@
 {
-  "Schema": 1,
-  "App": "JP",
-  "Version": "1.1.1",
-  "DownloadUrl": "https://github.com/curtner04/jancy-priority-downloads/releases/download/jancy-priority-1.1.1-08f1c10d23842b8d/JP-Setup.exe",
-  "SHA256": "08f1c10d23842b8dbc52c245d4a26b9f6a07f01605301350623b95caa5ec7176",
-  "Bytes": 2103971
+    "Schema":  1,
+    "App":  "JP",
+    "Version":  "1.1.1",
+    "DownloadUrl":  "https://github.com/curtner04/jancy-priority-downloads/releases/download/jancy-priority-1.1.1-45d05e2df337bebc/JP-Setup.exe",
+    "SHA256":  "45d05e2df337bebc500757f4a9e409cbfb6370fc3c88166708e305a415b8076d",
+    "Bytes":  2106255
 }
